@@ -1,0 +1,6 @@
+[submodule "funcoin-proto"]
+	path = funcoin-proto
+	url = https://github.com/funcoinio/funcoin-proto.git
+[submodule "Tests/funcoin-sdk-tests"]
+	path = Tests/funcoin-sdk-tests
+	url = https://github.com/funcoinio/funcoin-sdk-tests.git
